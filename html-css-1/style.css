@@ -1,0 +1,13 @@
+.row-1{
+    background: grey;
+    color: white;
+}
+.info{
+    text-align: right;
+}
+.intro{
+    background: black;
+    color: yellow;
+    text-align: center;
+    height: 100px;
+}
